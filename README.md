@@ -1,6 +1,7 @@
 # Medicla - Assistant Médical Intelligent
 
-![Medicla Logo](Flux_Dev_A_beautifully_poised_Latin_woman_embodying_the_essenc_1.jpeg)
+<img src="Medical_assistant.jpeg" alt="Medicla Logo" width="300" />
+
 
 ## À propos
 
@@ -33,7 +34,7 @@ medicla/
 ├── api.py                    # API FastAPI pour le traitement des requêtes
 ├── app.py                    # Interface utilisateur Streamlit
 ├── ingest.py                 # Fonctions générales pour l'ingestion de données
-├── ingest_base_embedding.py  # Script pour créer et ingérer la table ae_qa_table
+├── ingest_base_embedding.py  # Script pour créer et ingérer la table qa_table
 ├── retrieve.py               # Fonctions pour récupérer des documents pertinents
 ├── audiovisuel.py            # Module pour générer des réponses audiovisuelles
 ├── config.py                 # Configuration du projet
